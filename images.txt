@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 weaveworks/weaveexec:2.8.1
+weaveworks/weave:2.8.1
