@@ -6,3 +6,4 @@ xhofe/alist:latest
 weaveworks/weaveexec:2.8.1
 weaveworks/weave:2.8.1
 weaveworks/weavedb:latest
+hello-world:latest
