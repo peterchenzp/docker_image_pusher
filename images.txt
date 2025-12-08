@@ -8,3 +8,4 @@ weaveworks/weave:2.8.1
 weaveworks/weavedb:latest
 hello-world:latest
 qingfeng2336/it-tools:latest
+rancher/rancher:v2.14
